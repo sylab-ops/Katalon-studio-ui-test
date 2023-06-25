@@ -1,0 +1,1 @@
+# Katalon-studo-git-intigration
