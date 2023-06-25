@@ -1,1 +1,2 @@
-# Katalon-studo-git-intigration
+# Katalon-studo
+Git intigration
