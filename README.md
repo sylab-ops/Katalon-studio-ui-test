@@ -1,2 +1,2 @@
 # Katalon-studo
-Git intigration
+UI test using Katalon studio along with Git intigration 
